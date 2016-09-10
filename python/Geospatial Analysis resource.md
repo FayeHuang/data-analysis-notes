@@ -1,4 +1,6 @@
-# Python 地理空間分析相關套件
+# 地理空間分析相關資料
+
+## Python 地理空間分析相關套件
 
 - [Shapely](https://github.com/Toblerity/Shapely)
     - Manipulation and analysis of geometric objects in the Cartesian plane.
@@ -8,3 +10,7 @@
     - support for geographic data to pandas objects
 - [folium](https://github.com/python-visualization/folium)
     - makes it easy to visualize data that’s been manipulated in Python on an interactive Leaflet map
+
+## Slides
+
+- [Geospatial analysis with Python](http://geoinquietosvlc.github.io/2015.es.pycon/#/)
