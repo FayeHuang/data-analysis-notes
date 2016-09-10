@@ -1,6 +1,6 @@
 # 查看 Spark version
 
-### 透過指令
+### 透過指令 (at Zeppelin)
 
 ```python
 %pyspark
